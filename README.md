@@ -1,6 +1,3 @@
-I create this project for Students Admission form .
-I only used two parameters:
-1: User name .
-2: password. 
-we can insert a Student record , also can delete and also see record of Students.
+This project is created for admission form of students. There are only two parameters which are used: i.e. 1. User name 2. Password. 
+We can view, insert and delete records of students.
 
